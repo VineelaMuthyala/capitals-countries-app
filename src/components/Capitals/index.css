@@ -1,0 +1,40 @@
+.bg-container {
+  background-color: #93c5fd;
+  font-family: 'roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 400px;
+}
+.countries-container {
+  background-color: white;
+  border-radius: 5px;
+  width: 400px;
+  height: 200px;
+  padding-top: 10px;
+  padding-left: 30px;
+}
+.heading {
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+}
+.select-tag-container {
+  display: flex;
+  flex-direction: row;
+  padding-top: 10px;
+}
+.para {
+  font-size: 15px;
+  color: #323f4b;
+}
+.country-name {
+  font-size: 20px;
+}
+.select-tag {
+  width: 100px;
+  height: 30px;
+  margin-top: 10px;
+}
